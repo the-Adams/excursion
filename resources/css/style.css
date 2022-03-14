@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #000;
+}
+.mt_md {
+    margin: 33px auto;
+}
+
+.header {
+  width: 100%;
+  display: block;
+  color: #fff;
+  text-align: center;
+}
+
+.header h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.download {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.download .link {
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.video {
+  display: flex;
+  justify-content: center;
+  background-color: #000;
+  text-align: center;
+}
+
+.header h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.description {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  font-size: 21px;
+  color: gray;
+}
+
+.img {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  display: flex;
+  justify-content: flex-end;
+}
